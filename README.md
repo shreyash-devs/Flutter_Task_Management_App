@@ -32,7 +32,8 @@ Schedulo is a Flutter-based task management application designed to help users e
 
 ## 📸 Screenshots
 
-*(Add screenshots of your Home Screen, Task Creation Screen, and Task List Screen here)*
+![1](https://github.com/user-attachments/assets/1238c538-cf11-4310-be94-19ae84a53498)
+
 
 ---
 
