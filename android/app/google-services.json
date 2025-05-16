@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "730307909156",
+    "project_id": "schedulo-6b782",
+    "storage_bucket": "schedulo-6b782.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730307909156:android:8500e5d72864493757eab1",
+        "android_client_info": {
+          "package_name": "com.company.schedulo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730307909156-d5bf1u02f0ih6dko2gu3g4nqnj1bk8re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.schedulo",
+            "certificate_hash": "2d60c4f7bf218c23de18753a26debce2d9ac7c8f"
+          }
+        },
+        {
+          "client_id": "730307909156-pgjkc01pem74cna38779mqt0ju62blfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqACFIys3dPEMSIEEYVMnyTjifoWeQZXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730307909156-6osjlke0bqs5aqrhfl692r0p836c5sma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730307909156-qa2trs31o5s2i6m703mh448ndpcv2a7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.schedulo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730307909156:android:6a62b1c00c354c3057eab1",
+        "android_client_info": {
+          "package_name": "com.example.schedulo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730307909156-40l3559tt66gptrtg6vlukrkq6q0it15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schedulo",
+            "certificate_hash": "2d60c4f7bf218c23de18753a26debce2d9ac7c8f"
+          }
+        },
+        {
+          "client_id": "730307909156-pgjkc01pem74cna38779mqt0ju62blfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqACFIys3dPEMSIEEYVMnyTjifoWeQZXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730307909156-6osjlke0bqs5aqrhfl692r0p836c5sma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730307909156-qa2trs31o5s2i6m703mh448ndpcv2a7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.schedulo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
