@@ -1,16 +1,43 @@
-# schedulo
+# 🗓️ Schedulo – Task Management App
 
-A new Flutter project.
+Schedulo is a Flutter-based task management application designed to help users efficiently organize and manage their daily tasks. It offers a clean UI, smooth performance, and productivity-enhancing features — perfect for students, professionals, or anyone who wants to stay on top of their to-do list.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add, edit, and delete tasks
+- 📅 Assign due dates and priorities
+- 📂 Organize tasks by categories (e.g., Personal, Work, Study)
+- 🔔 Local notifications/reminders *(if implemented)*
+- 🌙 Light & dark theme support
+- 📱 Fully responsive UI
+- 💾 Offline support using local storage (Hive/Sqflite)
+- 🔐 Firebase Authentication *(optional)*
+- ☁️ Firebase/Cloud Firestore integration *(if implemented)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Tech Stack
+
+| Layer            | Technology         |
+|------------------|--------------------|
+| **Frontend**      | Flutter (Dart)     |
+| **State Management** | Riverpod / Provider *(based on usage)* |
+| **Backend (if any)** | Firebase (Auth + Firestore) |
+| **Local DB**       | Hive / Sqflite     |
+| **Others**         | SharedPreferences, Google Fonts, etc. |
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots of your Home Screen, Task Creation Screen, and Task List Screen here)*
+
+---
+
+## 🔧 Installation
+
+1. **Clone the repo**
+```bash
+git clone https://github.com/your-username/task_management_app.git
